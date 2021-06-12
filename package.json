@@ -1,0 +1,12 @@
+{
+  "name": "sadf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "eslint": "^7.28.0",
+    "mongoose": "^5.12.13"
+  }
+}
